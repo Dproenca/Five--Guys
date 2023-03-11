@@ -1,7 +1,7 @@
 {
     "meta": {
         "app_id": "org.example.same.identifier.manifest.package",
-        "app_title": "City Street Heritage",
+        "app_title": "SHC Sports Heritage",
         "version": 1,
         "updated": "2022-09-26",
         "source_url": "https://pbesteu.github.io/poi-quick-app/sample/data.json",
@@ -23,7 +23,7 @@
                 "issue_url": "https://github.com/pbesteu/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
             "pois": [{
-                    "id": "uniqueID",
+                    "id": "Baseball1",
                     "lat": "30.692489452254463",
                     "lon": "-88.13764616533587",
                     "type": "Field",
@@ -55,20 +55,22 @@
                     ]
                 },
                      {
-                    "id": "uniqueID-2",
-                    "lat": "50.9",
-                    "lon": "4.8",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "id": "Basketball&Volleyball",
+                    "lat": "30.692249750837906",
+                    "lon": "-88.13455209258824",
+                    "type": "Courts",
+                    "name": "Basketball & Volleyball Court",
                     "images": [
                         "https://pbesteu.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
                         "https://pbesteu.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
                     ],
-                    "description": "One-paragraph description",
+                    "description": "Spring Hill College's Outlaw Center is proud to offer a top-notch gymnasium that's perfect for basketball and volleyball players of all skill levels. With its spacious and well-lit court, the gym is the ideal setting for athletes who want to improve their skills, compete against others, or simply have fun playing the sports they love.
+Equipped with high-quality basketball hoops, net systems, and other equipment, the gym provides everything you need to play the game at the highest level. And with ample space for both basketball and volleyball, the gym is the perfect spot to enjoy some friendly competition with friends or teammates.
+Whether you're a seasoned player or just starting out, you'll find plenty of opportunities to hone your skills and improve your game in the Outlaw Center's gymnasium. With its welcoming and supportive atmosphere, it's the perfect place to play basketball or volleyball and have fun while doing it. So come check out the gym at the Outlaw Center and start taking your basketball or volleyball game to the next level today.
+",
                     "more": "More description, if you want",
                     "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
-                        "https://example.org/mypoi"
+                        "https://shcbadgers.com/facilities/?path=general"
                     ]
                 },
                      {
