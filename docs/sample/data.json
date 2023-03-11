@@ -27,10 +27,9 @@
                     "lat": "50.8789629",
                     "lon": "4.7013242",
                     "type": "statue",
-                    "name": "My Statue",
+                    "name": "Spring Hill Baseball Field",
                     "images": [
-                        "https://pbesteu.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
-                        "https://pbesteu.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
+                        "file:///Users/parkerserio/Downloads/IMG_4090.jpeg",
                     ],
                     "description": "One-paragraph description",
                     "more": "More description, if you want",
