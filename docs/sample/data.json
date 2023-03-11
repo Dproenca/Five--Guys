@@ -24,8 +24,8 @@
             },
             "pois": [{
                     "id": "uniqueID",
-                    "lat": "50.8789629",
-                    "lon": "4.7013242",
+                    "lat": "30.692489452254463",
+                    "lon": "-88.13764616533587",
                     "type": "statue",
                     "name": "Spring Hill Baseball Field",
                     "images": [
