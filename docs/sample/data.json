@@ -23,7 +23,7 @@
                 "issue_url": "https://github.com/pbesteu/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
             "pois": [{
-                    "id": "uniqueID",
+                    "id": "Baseball Field",
                     "lat": "30.692489452254463",
                     "lon": "-88.13764616533587",
                     "type": "Field",
