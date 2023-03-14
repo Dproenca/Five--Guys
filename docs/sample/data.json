@@ -59,8 +59,7 @@
                     "type": "Athletic Center",
                     "name": "Spring Hill's Outlaw Center",
                     "images": [
-                        "https://pbesteu.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://pbesteu.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                        "file:///Users/parkerserio/Downloads/IMG_4089.jpeg"
                     ],
                     "description": "Attention athletes, the Outlaw Recreation Center at Spring Hill College is the ultimate hub for fitness and wellness on campus. This state-of-the-art facility is packed with a plethora of activities and amenities for you to enjoy, whether you’re a student, staff, or local community member. In addition to providing fitness and recreation opportunities, the Outlaw Recreation Center is also a central point for student life on campus. Expect exciting events such as fitness classes, intramural sports leagues, and cultural events to take place regularly, making it a great way to connect with other. Overall, the Outlaw Recreation Center is the perfect place to enhance your physical health, engage in leisure activities, and spend time with friends. So why wait? Come visit today and experience all it has to offer!",
                     "more": "More description, if you want",
@@ -72,7 +71,7 @@
                     "id": "Gymnasium",
                     "lat": "50.9",
                     "lon": "4.8",
-                    "type": "Bsketball and Vollyball court",
+                    "type": "Basketball and Volleyball Court",
                     "name": "Gym",
                     "images": [
                         "https://pbesteu.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
