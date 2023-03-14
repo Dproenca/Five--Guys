@@ -12,7 +12,7 @@
         "en": {
             "app": {
                 "theme": {
-                    "brand": "#B11623",
+                    "brand": "#B100CD",
                     "complementary": "#FAFAFA"
                 },
                 "repository_url": "https://github.com/pbesteu/poi-quick-app/tree/main/docs/country/city",
