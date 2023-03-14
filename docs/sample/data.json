@@ -54,8 +54,8 @@
                 },
                      {
                     "id": "Outlaw Center",
-                    "lat": "50.9",
-                    "lon": "4.8",
+                    "lat": "30.691764157306547",
+                    "lon": "-88.13452705639772",
                     "type": "Athletic Center",
                     "name": "Spring Hill's Outlaw Center",
                     "images": [
@@ -69,8 +69,8 @@
                 },
                      {
                     "id": "Gymnasium",
-                    "lat": "50.9",
-                    "lon": "4.8",
+                    "lat": "30.691764157306547",
+                    "lon": "-88.13452705639772",
                     "type": "Basketball and Volleyball Court",
                     "name": "Gym",
                     "images": [
