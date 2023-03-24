@@ -13,7 +13,7 @@
             "app": {
                 "theme": {
                     "brand": "#B100CD",
-                    "complementary": "#ea8df2"
+                    "complementary": "#EA8DF2"
                 },
                 "repository_url": "https://github.com/pbesteu/poi-quick-app/tree/main/docs/country/city",
                 "text_info": "This app is created by locals and experts. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
