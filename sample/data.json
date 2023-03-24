@@ -41,7 +41,7 @@
                     "lon": "-88.13452705639772",
                     "type": "Gym",
                     "name": "Spring Hill Weight Room",
-                    "images": ["https://github.com/Dproenca/Five--Guys/blob/main/docs/sample/images/IMG_4088.JPEG"],
+                    "images": ["https://github.com/Dproenca/Five--Guys/raw/main/docs/sample/images/IMG_4088.JPEG"],
                     "description": "Spring Hill College's Outlaw Center boasts a state-of-the-art workout room that is perfect for students and athletes looking to stay in top shape. Equipped with the latest fitness equipment and a variety of free weights, the workout room offers a variety of workout options suitable for individuals of all fitness levels.Whether you're a seasoned athlete or just starting your fitness journey, you'll find everything you need to achieve your goals and improve your overall health and wellness. From cardio machines and weight training equipment to functional fitness tools and stretching areas, the Outlaw Center's workout room has it all. With its clean and inviting atmosphere, it's the perfect place to work up a sweat and take your fitness to the next level. So come check out the workout room today and start achieving your fitness goals at Spring Hill College.",
                     "more": "More description, if you want",
                     "urls": [
@@ -54,7 +54,7 @@
                     "lon": "-88.13452705639772",
                     "type": "Athletic Center",
                     "name": "Spring Hill's Outlaw Center",
-                    "images": ["https://github.com/Dproenca/Five--Guys/blob/main/docs/sample/images/IMG_4089.JPEG"],
+                    "images": ["https://github.com/Dproenca/Five--Guys/raw/main/docs/sample/images/IMG_4089.JPEG"],
                     "description": "Attention athletes, the Outlaw Recreation Center at Spring Hill College is the ultimate hub for fitness and wellness on campus. This state-of-the-art facility is packed with a plethora of activities and amenities for you to enjoy, whether you’re a student, staff, or local community member. In addition to providing fitness and recreation opportunities, the Outlaw Recreation Center is also a central point for student life on campus. Expect exciting events such as fitness classes, intramural sports leagues, and cultural events to take place regularly, making it a great way to connect with other. Overall, the Outlaw Recreation Center is the perfect place to enhance your physical health, engage in leisure activities, and spend time with friends. So why wait? Come visit today and experience all it has to offer!",
                     "more": "More description, if you want",
                     "urls": [
@@ -67,7 +67,7 @@
                     "lon": "-88.13452705639772",
                     "type": "Basketball and Volleyball Court",
                     "name": "Gym",
-                    "images": ["https://github.com/Dproenca/Five--Guys/blob/main/docs/sample/images/IMG_4087.JPEG"],
+                    "images": ["https://github.com/Dproenca/Five--Guys/raw/main/docs/sample/images/IMG_4087.JPEG"],
                     "description": "Spring Hill College’s Outlaw Center is proud to offer a top-notch gymnasium that’s perfect for basketball and volleyball players of all skill levels. With its spacious and well-lit court, the gym is the ideal setting for athletes who want to improve their skills, compete against others, or simply have fun playing the sport they love. Equipped with high-quality basketball hoops, net systems, and other equipment, the gym provides everything you need to play the game at the highest level. And with ample space far both basketball and volleyball, the gym is the perfect spot to enjoy some friendly competition with friends or teammates. Whether you’re a seasoned player or just starting out, you’ll find plenty of opportunities to hone your skills and improve your game in the Outlaw Center’s gymnasium. With its welcoming and supportive atmosphere, it’s the perfect place to play basketball or volleyball and have fun while doing it. So come check out Spring Hill’s gyn and start taking your basketball or volleyball game to the next level today.",
                     "more": "More description, if you want",
                     "urls": [
@@ -80,7 +80,7 @@
                     "lon": "-88.14117306931092",
                     "type": "Field",
                     "name": "Library Field",
-                    "images": ["https://github.com/Dproenca/Five--Guys/blob/main/docs/sample/images/IMG_4174.JPEG"],
+                    "images": ["https://github.com/Dproenca/Five--Guys/raw/main/docs/sample/images/IMG_4174.JPEG"],
                     "description": "Looking for a great place to play soccer this Spring? Look no further than Library Field, also known as Spring Hill’s Soccer Field! Our facility offers a fantastic soccer experience for players of all ages and skills levels. Library Field features a well-maintained, natural grass playing surface that is perfect for a game of soccer. The field is spacious and offers ample room for players to maneuver and showcase their skills. Whether you are a seasoned pro or beginner, you will enjoy playing on our field. We take great pride in maintaining our facility and ensuring that it is always in top condition for our players. At Library Field, we are committed to providing a safe and fun environment for everyone. Our staff is friendly and knowledgeable, and we are available to answer any questions you may have. So why wait? Come join us at Spring Hills Soccer Field and experience the thrill of the game in a beautiful, welcoming setting. We look forward to seeing you on the field. ",
                     "more": "More description, if you want",
                     "urls": [
